@@ -16,6 +16,4 @@ JPEG Image
 
 ![JPEG](/docs/.document360/assets/Sample_JPEG.jpeg)
 
-WEBP image
-
-![WEBP](/docs/.document360/assets/Sample_webp.webp)
+Edited this article
