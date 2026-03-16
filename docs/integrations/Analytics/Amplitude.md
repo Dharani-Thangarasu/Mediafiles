@@ -1,4 +1,4 @@
-# Amplitude Integration – Document360 Eidted
+# Amplitude Integration – Document360 
 
 Document360 supports integration with **Amplitude**, a product analytics platform that helps track user behavior and interactions on your knowledge base.
 
