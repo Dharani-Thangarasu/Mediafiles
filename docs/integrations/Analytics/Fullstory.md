@@ -1,6 +1,8 @@
 # FullStory Integration – Document360 - Editing this article 
 
-Document360 supports integration with **FullStory**, a digital experience analytics platform that captures user sessions, providing insights into user behavior across your knowledge base.
+Document360 supports integration with **FullStory**, a digital experience analytics platform that captures user sessions, providing insights into user behavior across your knowledge base. 
+
+Editing This article
 
 With FullStory, you can:
 
