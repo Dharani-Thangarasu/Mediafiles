@@ -116,3 +116,17 @@ Language dropdown: Select the desired language
 Copy: To copy the code block
 
 More: Click More to access additional formatting options using the Slash menu.
+## Key Features
+
+- **Familiar Interface**: Works like MS Word or Google Docs.
+- **Drag-and-Drop Media**: Add images, videos, and files.
+- **Tables and Code Blocks**: Insert tables, code blocks, and other structured elements.
+- **HTML Support**: Add or edit HTML when needed.
+- **Collapsible Sections**: Helps in organizing large content.
+- **Inline Comments**: For team collaboration and feedback.
+- **Insert Smart Elements**: Add callouts, tooltips, tabs, and more.
+- **Version Control**: Restore or compare previous versions of an article.
+- **Preview Options**: Desktop and mobile previews.
+- **Find & Replace**: Locate and update text globally within the article.
+
+---
