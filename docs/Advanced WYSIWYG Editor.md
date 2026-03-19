@@ -84,3 +84,35 @@ Track changes, restore previous versions, and maintain full history for each art
 ## Summary
 
 The **Advanced WYSIWYG editor** in Document360 is a powerful, intuitive tool designed to create rich documentation with ease and flexibility. It suits both technical and non-technical authors, supporting a range of formatting and collaboration features.
+
+## Quick insert menu
+
+The Quick insert menu appears as a floating option within an empty block. It allows users to quickly add commonly used elements to their articles.
+
+The available options in the Quick insert menu are:
+
+Eddy AI Writer (): Generate AI-powered content directly in your article.
+
+Bullet List (): Insert a bulleted list. Use the dropdown to select default, disc, square, or circle.
+
+Table (): Add a table to structure data.
+
+Image (): Upload and insert an image.
+
+### NOTE
+
+Use the available tools to format the image. Click the image to open the floating formatting menu.
+
+You can align, crop, add borders, add shadows, add captions, and more.
+
+For more information, read the article on Image formatting in the Advanced WYSIWYG editor.
+
+Link (): Add a hyperlink. You can also use the Ctrl + K keyboard shortcut.
+
+Code block (): Insert a code block for technical content. Click within the code block to access the contextual toolbar:
+
+Language dropdown: Select the desired language
+
+Copy: To copy the code block
+
+More: Click More to access additional formatting options using the Slash menu.
