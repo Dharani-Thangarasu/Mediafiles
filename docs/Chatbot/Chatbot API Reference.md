@@ -2,7 +2,6 @@
 
 Use the Document360 Chatbot API to programmatically query the chatbot, retrieve conversation history, and manage settings.
 
-e3460e3a-7652-4c05-b78b-81c08dea28a9
 ---
 
 ## Authentication
