@@ -2,10 +2,6 @@
 
 Document360 provides an **Advanced WYSIWYG (What You See Is What You Get) editor** that allows you to create rich, formatted content without needing to know HTML or Markdown. 
 
-After Reinstall upadted
-
-Second reinstall
-
 ---
 
 ## Key Features
