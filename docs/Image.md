@@ -1,4 +1,6 @@
 This file contains differnt types of images
+![PNG](/docs/.document360/assets/Sample_png.png)
+
 
 PNG image
 
