@@ -1,5 +1,5 @@
 This file contains differnt types of images
-![PNG](/docs/.document360/assets/Sample_png.png)
+![JPG](/docs/.document360/assets/Sample_Jpg.jpg)
 
 
 PNG image
